@@ -23,7 +23,7 @@ pvtop tcp://consumer:26657 tcp://provider:26657
 ## Install
 
 ```
-git clone https://github.com/blockpane/pvtop
+git clone https://github.com/Raider7019/pvtop
 cd pvtop
 go install ./...
 ```
